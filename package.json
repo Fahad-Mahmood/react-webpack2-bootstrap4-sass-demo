@@ -1,5 +1,5 @@
 {
-  "name": "spinmyvinyl",
+  "name": "react-webpack2-bootstrap4-sass",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "buildDev": "npm run build && ./node_modules/.bin/webpack-dev-server",
     "build": "npm run clean && webpack"
   },
-  "repository": "https://github.com/jslnriot/spinmyvinyl.git",
+  "repository": "https://github.com/jslnriot/react-webpack2-bootstrap4-sass-demo",
   "author": "",
   "license": "ISC",
   "dependencies": {
