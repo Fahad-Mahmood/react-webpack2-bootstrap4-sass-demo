@@ -9,7 +9,7 @@
     "build": "npm run clean && webpack"
   },
   "repository": "https://github.com/jslnriot/react-webpack2-bootstrap4-sass-demo",
-  "author": "",
+  "author": "James Buczkowski",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^4.0.0-alpha.6",
