@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "clean": "rimraf dist",
-    "buildDev": "npm run build && ./node_modules/.bin/webpack-dev-server",
-    "build": "npm run clean && webpack"
+    "dev": "npm run build && ./node_modules/.bin/webpack-dev-server",
+    "prod": "npm run clean && webpack"
   },
   "repository": "https://github.com/jslnriot/react-webpack2-bootstrap4-sass-demo",
   "author": "James Buczkowski",
